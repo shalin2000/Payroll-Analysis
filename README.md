@@ -11,7 +11,7 @@
  This file contains all the functions that are implemented in order to match the output and analyze the datasets. Each function has their own description.
  
 # Output
- There are 4 png images that show what the output of the program should look like for their respective data
+ Inside output folder, there are 4 png images that show what the output of the program should look like for their respective data
  
 
   
